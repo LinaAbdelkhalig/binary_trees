@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_sibling - finds the sibling of a node
+ * sibling - finds the sibling of a node
  * @node: the nodaia
  * Return: NULL if node or the parent is null or no sibling
  */
